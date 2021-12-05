@@ -1,0 +1,30 @@
+body{
+    width: 400px;
+    height: auto;
+    background-color: rgb(74, 134, 62);
+    justify-content: center;
+    
+}
+h6{
+    margin: auto 5px;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    border-radius: 6px;
+    border: 1px dashed rgb(169, 218, 238);
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(160, 248, 248);
+
+}
+p{
+    margin: auto 5px;
+    font-size: 18px;
+    color: black;
+    border-radius: 6px;
+    border: 1px dashed forestgreen;
+    padding: 5px;
+    margin-bottom: 3px;
+    background-color: rgb(235, 235, 187);
+    
+}
